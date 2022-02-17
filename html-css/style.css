@@ -1,0 +1,35 @@
+#nav-bar{
+    background-color: #57BAAB;
+    height: 630px;
+    width: 200px;
+    margin: 0;
+    position: fixed;
+    max-height: 100%;
+}
+#logo{
+    margin-left: 25%;
+    margin-top: 13%;
+}
+.nav-list-dashboard{
+    margin-left:20px;
+    margin-top: 75px;
+    background-color: white;
+    border-radius: 20px;
+    float: left;
+    padding: 8px;
+
+
+}
+#dashboard{
+    color: #322B63;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.dashboard-icon{
+    width: 14px;
+    position: absolute;
+    margin-top: 9px;
+
+}
